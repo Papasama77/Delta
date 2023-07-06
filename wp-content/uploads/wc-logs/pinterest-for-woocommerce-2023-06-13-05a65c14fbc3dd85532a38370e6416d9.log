@@ -1,0 +1,6 @@
+2023-06-13T07:03:34+00:00 ERROR GET Demande : https://api.pinterest.com/ads/v4/advertisers/countries
+Code du statut : 401
+Réponse API : Reconnectez-vous à votre compte Pinterest
+2023-06-13T09:06:49+00:00 ERROR GET Demande : https://api.pinterest.com/ads/v4/advertisers/countries
+Code du statut : 401
+Réponse API : Reconnectez-vous à votre compte Pinterest

@@ -1,0 +1,29 @@
+.sf-titre{font: size 2.6em, im !important; text-transform:uppercase;}
+.rose{color: #e9d7e8 !important;}
+.rouge{color: #d95370 !important;}
+.noir{color:black !important}
+
+.centre{text-align: center;}
+.gauche{text-align: left;}
+.droite{text-align: right;}
+
+h3{position:relative;}
+.sf-title::before{
+    content:"";
+    border-top:1px solid #232323;
+    position:absolute;
+    left:0;
+    bottom:30%;
+    height:5px;
+    width:35%;
+}
+
+
+.sf-title:after{ content:"";
+    border-top:1px solid #232323;
+    position:absolute;
+    right:0;
+    bottom:30%;
+    height:5px;
+    width:35%;
+}

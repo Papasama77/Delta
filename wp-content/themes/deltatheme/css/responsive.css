@@ -1,0 +1,16 @@
+@media screen and (min-width:320px) and (max-width:768px){
+    .sf-title::before{border-top:0;}
+    .sf-title::after{border-top:0;}
+    .top-bar {max-height:100%}
+}
+
+@media screen and (max-width:414px){
+    header{flex-direction: column;}
+    .social img {width: 15%;}
+}
+
+@media only screen and (max-width: 736px){
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+    padding:0.5em;
+}}

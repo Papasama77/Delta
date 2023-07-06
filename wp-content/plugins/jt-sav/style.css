@@ -1,0 +1,21 @@
+
+
+/*Shortcode services*/
+.sf-services{min-height:111px; text-align: center;color:#fff!important;}
+
+.sf-services h4{height:100px;
+    font-size:2em;
+    font-weight: bold;
+    padding:7%;    
+}
+
+.livraison-rose{background:url(img/bouton-livraison-rose.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+.livraison-noir{background:url(img/bouton-livraison-noir.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+.retour-rose{background:url(img/bouton-retour_rose.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+.retour-noir{background:url(img/bouton-retour-noir.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+.service-rose{background:url(img/bouton-service-rose.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+.service-noir{background:url(img/bouton-service-noir.png)no-repeat center center rgba(0,0,0,0);width:431px;}
+
+.livraison{background:url(img/icone_camion.png)no-repeat 5% 50%;}
+.retour{background:url(img/icone_montre.png)no-repeat 10% 50%;}
+.service{background:url(img/icone_main.png)no-repeat 15% 50%;}

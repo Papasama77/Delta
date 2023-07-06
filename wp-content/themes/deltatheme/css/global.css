@@ -1,0 +1,48 @@
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Unica One', cursive;
+
+Noir : #000000
+Rose Pâle : #e9d7e8
+Rouge Pâle : #d95370
+Blanc : #ffffff
+*/
+
+main{box-shadow:1px 1px 24px #ddd;}
+#fullorboxed{padding:0;}
+h1,h2,h3,h4,h5,h6{font-family:'Unica One',cursive;}
+
+.hidden{display:none;}
+.top-bar{max-height:50px;margin:0;}
+
+
+
+
+
+.wp-block-columns.is-layout-flex.wp-container-4{width:97%;margin-left:0.5%;}
+
+.text-cat figure.wp-caption{position: relative;}
+.text-cat figcaption{position: absolute; bottom:15%; left:33%;}
+
+a.page-numbers{
+    padding:0 1em;
+}
+
+#comments label{display:none; font-size:1em;}
+#comments textarea, #comments input[type="text"]{border:1px solid #ddd; width:60%;}
+
+/*Classes recommandée par theme check*/
+.wp-caption-text{color: #ddd;}
+.sticky{box-shadow:1px 1px 6px #ddd;}
+.gallery-caption{color:#ddd;}
+.bypostauthor{color:#ddd;}
+.alignright{text-align:right;}
+.alignleft{text-align:lefy;}
+.aligncenter{text-align:center;}
+
+#aside-left{
+    border:1px solid pink;
+    padding:1em;
+    margin-left:1em;
+    border-radius:8px;
+}

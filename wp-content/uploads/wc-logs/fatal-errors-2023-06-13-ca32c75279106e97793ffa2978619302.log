@@ -1,0 +1,16 @@
+2023-06-13T07:51:18+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\wamp64\www\delta-theme-wp23\wp-content\themes\deltatheme\category.php:2
+Stack trace:
+#0 C:\wamp64\www\delta-theme-wp23\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\delta-theme-wp23\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\delta-theme-wp23\index.php(17): require('C:\\wamp64\\www\\d...')
+#3 {main}
+  thrown dans C:\wamp64\www\delta-theme-wp23\wp-content\themes\deltatheme\category.php à la ligne 2
+
+2023-06-13T07:51:19+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\wamp64\www\delta-theme-wp23\wp-content\themes\deltatheme\category.php:2
+Stack trace:
+#0 C:\wamp64\www\delta-theme-wp23\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\delta-theme-wp23\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\delta-theme-wp23\index.php(17): require('C:\\wamp64\\www\\d...')
+#3 {main}
+  thrown dans C:\wamp64\www\delta-theme-wp23\wp-content\themes\deltatheme\category.php à la ligne 2
+
